@@ -1,0 +1,2 @@
+swift build -Xlinker -L../PROJ4/proj-4.9.2/lib
+
